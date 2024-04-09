@@ -6,3 +6,4 @@ branch-demo
 
 A
 B
+C
