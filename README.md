@@ -1,5 +1,5 @@
 # ops-dry-run
 
-hello ops!
+hello ops! conflict
 
 branch-demo
